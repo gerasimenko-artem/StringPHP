@@ -1,11 +1,12 @@
 {
-  "name": "artem-herasymenko/string-php",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
+  "name": "gerasimenko-artem/string-php",
+  "description": "Test package",
+  "type": "library",
+  "minimum-stability": "dev",
+  "license": "MIT",
   "authors": [
     {
-      "name": "flossy",
+      "name": "gerasimenko-artem",
       "email": "gerasimenko3452@gmail.com"
     }
   ],
