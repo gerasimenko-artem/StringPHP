@@ -1,6 +1,6 @@
 <?php
 
-namespace StringUtils\src;
+namespace StringUtils;
 class StringUtils
 {
     public static function reverseString($string)

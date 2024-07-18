@@ -1,0 +1,21 @@
+{
+  "name": "artem-herasymenko/string-php",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "flossy",
+      "email": "gerasimenko3452@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "StringUtils\\": "src"
+    }
+  }
+}
+
+
